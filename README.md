@@ -1,10 +1,11 @@
 <img align="right" alt="Coding" width="300" length="300" src="https://github.com/viktoriia-vi/viktoriia-vi/blob/main/Work%20From%20Home%20Dog%20GIF.gif">
+ 
 
-# Hi there, I'm Viktoriia 👋
+**Hi there, I'm Viktoriia** 👋 ​
 
 I'm a Data Analyst who is passionate about working with raw and complex data and uncovering insights from it. I enjoy learning new data skills and tools! 🖥️
 
-## ✍️ Skills
+ ## ✍️ Skills
 - Data Visualization: Tableau, Power BI, Excel 
 - Databases/Data Warehouses: PostgreSQL, SSMS, BigQuery, Redshift, DBeaver, Access, MongoDB 
 - ETL Tools: Tableau Prep, Rivery 
