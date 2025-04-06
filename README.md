@@ -3,9 +3,12 @@
 
 **Hi there, I'm Viktoriia** 👋 ​
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vvitrenko/)
+[![G-Mail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:v.a.vitrenko@gmail.com)
+
 I'm a Data Analyst who is passionate about working with raw and complex data and uncovering insights from it. I enjoy learning new data skills and tools! 🖥️
 
- ## ✍️ Skills
+ ✍️ **Skills**
 - Data Visualization: Tableau, Power BI, Excel 
 - Databases/Data Warehouses: PostgreSQL, SSMS, BigQuery, Redshift, DBeaver, Access, MongoDB 
 - ETL Tools: Tableau Prep, Rivery 
@@ -15,9 +18,6 @@ I'm a Data Analyst who is passionate about working with raw and complex data and
 
 My **Tableau** works: https://public.tableau.com/app/profile/viktoriia.vitrenko/vizzes
 
-## 📫 How to reach me: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vvitrenko/)
-[![G-Mail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:v.a.vitrenko@gmail.com)
 
 ## 🛠️ Tools I Use
 <p align="left">
